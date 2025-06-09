@@ -23,7 +23,7 @@ body {
   line-height: 1.6;
 }
 
-/* Accent styling (buttons, links) */
+
 a, .btn {
   color: var(--accent-cyan);
   text-decoration: none;
@@ -54,7 +54,7 @@ a:hover, .btn:hover {
   font-weight: bold;
 }
 
-/* Hero Section */
+
 .hero {
   background-color:cyan
   height: 60vh;
@@ -93,7 +93,7 @@ h2::after {
   margin: 0.5rem auto 0;
 }
 
-/* Sections */
+
 section {
   padding: 4rem 2rem;
 }
@@ -105,7 +105,7 @@ section {
   box-shadow: 0 4px 12px rgba(0, 0, 0, 0.5);
 }
 
-/* Project Cards */
+
 .project-grid {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
