@@ -28,7 +28,7 @@
   :contentReference[oaicite:24]{index=24}
   :contentReference[oaicite:25]{index=25}
 }
-/* Root variables */
+
 :root {
   --bg-dark: #0F172A;
   --text-light: #F4F4F4;
@@ -38,7 +38,7 @@
   --hover-shadow: rgba(34, 211, 238, 0.2);
 }
 
-/* Global Resets */
+
 * {
   box-sizing: border-box;
   margin: 0;
