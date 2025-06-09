@@ -85,6 +85,7 @@ a:hover, .btn:hover {
 
 /* Hero Section */
 .hero {
+  background-color:cyan
   height: 60vh;
   background: var(--bg-dark) url('campus.jpg') center/cover no-repeat;
   display: flex;
